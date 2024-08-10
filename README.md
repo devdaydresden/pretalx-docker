@@ -5,6 +5,13 @@ This repository contains a docker-compose setup as well as an [ansible](https://
 
 **Please note that this repository is provided by the pretalx community, and not supported by the pretalx team.**
 
+## Modified for use with Dev Day Dresden
+
+This fork add certain changes to make it work with the setup for [Dev Day Dresden](https://devday.de).
+
+* Add pretalx-downstream plugin to be able to import schedules from previous events
+
+
 ## Installation with docker-compose
 
 ### For testing
